@@ -1,1 +1,1 @@
-# OIBSIP-Iris-Prediction
+# Iris Prediction
